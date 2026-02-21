@@ -15,4 +15,8 @@
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0525-contiguous-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
