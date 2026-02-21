@@ -20,4 +20,8 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0009-palindrome-number) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
