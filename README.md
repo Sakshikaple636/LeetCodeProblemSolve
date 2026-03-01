@@ -21,6 +21,7 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0009-palindrome-number) |
+| [0866-prime-palindrome](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0866-prime-palindrome) |
 ## String
 |  |
 | ------- |
@@ -30,4 +31,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0003-longest-substring-without-repeating-characters) |
+## Number Theory
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Sakshikaple636/LeetCodeProblemSolve/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
